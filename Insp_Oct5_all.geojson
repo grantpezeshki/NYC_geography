@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Hamilton Parkway\tBay Ridge Ave to 54th St",
+        "team": "boro park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.01244640350342,
+              40.62877359927533
+            ],
+            [
+              -74.01210308074951,
+              40.62841532435382
+            ],
+            [
+              -74.00167465209961,
+              40.63554789052741
+            ],
+            [
+              -74.00193214416504,
+              40.635775859529005
+            ],
+            [
+              -74.01244640350342,
+              40.62877359927533
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
